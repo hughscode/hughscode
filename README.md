@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Hugh-Fowler
+[linkedin]: https://linkedin.com/in/Hugh-Fowler-aa217b295
