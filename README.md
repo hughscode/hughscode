@@ -8,6 +8,7 @@
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/hughscode/configure-ad)
+  - Preparing Active directory infrastructure within Azure 
 
 <h2>🤳Connect with me:</h2>
 
